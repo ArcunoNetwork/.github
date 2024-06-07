@@ -1,4 +1,4 @@
-[<img alt="Static Badge" src="https://img.shields.io/badge/Twitter-%2369ADCF?style=for-the-badge&logo=Twitter">](https://twitter.com/@ArcunoNetwork)  [<img alt="Static Badge" src="https://img.shields.io/badge/Discord-69ADCF?style=for-the-badge&logo=Discord">](https://discord.gg/q7bPDwrDkx)
+[<img alt="Static Badge" src="https://img.shields.io/badge/Twitter-%2369ADCF?style=for-the-badge&logo=X">](https://twitter.com/@ArcunoNetwork)  [<img alt="Static Badge" src="https://img.shields.io/badge/Discord-69ADCF?style=for-the-badge&logo=Discord">](https://discord.gg/q7bPDwrDkx)
 
 # Arcuno Network
 **Join us on the Arcuno Network! We offer many fun game modes, with our own coming soon. Experience our tight-knit community and cross-compatibility from versions ``1.7.x`` to ``1.8.x`` Don't miss out on fun events — give us a try today!**

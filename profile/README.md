@@ -1,3 +1,8 @@
+> [!CAUTION]
+> The ``arcuno.co`` domain is no longer supported as of the date ``31.07.2024 DD/MM/YYYY``
+
+---
+
 [<img alt="Static Badge" src="https://img.shields.io/badge/Twitter-%2369ADCF?style=for-the-badge&logo=X">](https://twitter.com/@ArcunoNetwork)  [<img alt="Static Badge" src="https://img.shields.io/badge/Discord-69ADCF?style=for-the-badge&logo=Discord">](https://discord.gg/q7bPDwrDkx)
 
 # Arcuno Network
@@ -22,9 +27,8 @@
 **Current API status can be seen [here](https://status.arcuno.co)**
 
 ## Usage
-   * Send a ``GET`` request to ``https://arcuno.co/api/API_PATH`` *(Redirect)*
-   * Send a ``GET`` request to ``https://api.arcuno.co/API_PATH`` *(Source)*
-
+   * Send a ``GET`` request to ``https://arcuno.net/api/v1/API_PATH``
+     
 ## Endpoints
 
 ### 1. Get Global Statistics
